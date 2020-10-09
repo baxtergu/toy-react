@@ -1,0 +1,29 @@
+{
+  "name": "toy-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baxtergu/toy-react.git"
+  },
+  "keywords": ["react", "toy", "toy-react"],
+  "author": "baxtergu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baxtergu/toy-react/issues"
+  },
+  "homepage": "https://github.com/baxtergu/toy-react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/preset-env": "^7.11.5",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
